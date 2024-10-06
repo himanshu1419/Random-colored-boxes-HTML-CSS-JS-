@@ -1,0 +1,16 @@
+.box{height: 50px;width:50px;
+border: 2px solid black;
+margin: 3px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.main-box{height: 100px;width: auto;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+p{text-align: center; font-size: larger; color: rgb(59, 1, 1);}
+
+body{background-color: rgb(87, 181, 232);}
